@@ -251,11 +251,13 @@
     "add": "Hinzufügen",
     "remove": "Entfernen",
     "loading": "Laden...",
+    "loadingPageCount": "Seitenanzahl wird geladen...",
     "error": "Fehler",
     "success": "Erfolg",
     "file": "Datei",
     "files": "Dateien",
-    "close": "Schließen"
+    "close": "Schließen",
+    "convert": "Konvertieren"
   },
   "about": {
     "hero": {
